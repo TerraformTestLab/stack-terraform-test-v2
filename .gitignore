@@ -79,3 +79,4 @@ stacks_migration_infra
 test-run.sh
 .DS_Store
 .vscode
+modularized_config
